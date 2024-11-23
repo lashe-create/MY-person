@@ -1,0 +1,230 @@
+body
+    {
+    background-color: powderblue;
+    margin: 0px;
+    text-align: center;
+    }
+    hr
+    {
+      border: groove 30px green;
+      border-bottom: none;
+      color: red;
+      width: 4%;
+      margin: 100px auto;
+
+    }
+    .bottom-container a:hover
+    {
+       color: #c3c7f4;
+        
+    }
+    .top-container 
+    {
+    position: relative;
+    background-color: #e4f9f5;
+    padding-top: 100px;
+    }
+  div .welcomlolo
+    {
+    color:#88976c;
+    line-height: 1;
+    font-family: cursive;
+    width: 100%;
+    margin: 50px auto 0 auto ;
+    font-size: 40px;
+    }
+ div .mountain-fire
+   {
+    width: 50%;
+    height: 50%;
+
+   }
+  h1
+   {
+    line-height: 4;
+    margin: 1px auto 50px auto ; 
+    font-size: 50px;
+    color: green; 
+    width: 100%;
+    font-family: 'sacramento',cursive;
+    }
+  .top-cloud
+    {
+    position: absolute; 
+    right: 300px;
+    top: 50px;
+    width: 10%;
+    }
+
+  .bottom-cloud
+    {
+    position: absolute;
+    left: 210px;
+    bottom: 200px;
+    width: 10%;
+    }
+    
+  .profile img
+    {
+    border-radius: 100px;
+    width: 200px;
+    height: 200px;
+    }
+    .personal-me
+    {
+     width:30%;
+     margin: auto;   
+    }
+  
+  img 
+    {
+    width: 300px;
+    height: 50px;
+    }
+    .samm
+    {
+        font-family:  cursive; 
+        font-size: 24px; 
+    }
+    .scills
+    {
+       font-size: x-large; 
+       font-family: monospace; 
+    }
+  .skills-row
+   {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 3;
+
+   }
+  
+  .skills 
+   {
+    color: goldenrod;
+    font-size: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  
+   }
+   div .mini-H2h
+   {
+    font-size: 15px;
+    font-family:'sacramento',cursive;
+
+   }
+   div .skill-set202 
+   {
+    border-radius: 50px;
+    width: 200px;
+    height: 200px;
+    border-radius: 50px;
+    width: 200px;
+    height: 200px;
+    width:25%;
+    float: right;
+    margin-left: 30px;
+    margin-top: 30px;
+    
+    
+   }
+   .skills-row-raw
+
+   {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: right;
+    line-height: 3;
+   }
+   
+  
+  div .skill-set 
+   {
+    border-radius: 50px;
+    width: 200px;
+    height: 200px;
+    width:25%;
+    float: left;
+    margin-right: 30px;
+   }
+  
+  p 
+   {
+    font-size: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    color: rgb(124, 86, 58);
+   }
+   .Contact-me h3
+   {
+    margin: 0;
+    font-size: 15px;
+    font-family:  'sacramento',cursive;
+    color: #1d6834;
+   }
+
+  .Contact-me h2
+   {
+    margin: 0;
+    font-size: 30px;
+    font-family:  'sacramento',cursive;
+    color: #681d1d;
+   }
+   a .btnn
+   {
+     margin: 80px 0 30px 0;
+     color: red;
+     font-size: x-large;
+     font-family:  'sacramento',cursive;
+     font-weight: bold;
+
+   }
+   .Facebook-link-blue1
+   {
+    color: #1d6834;
+    font-size: x-large;
+     font-family:  'sacramento',cursive;
+     font-weight: bold;
+   }
+   .Facebook-link-blue2
+   {
+    color: salmon;
+    font-size: x-large;
+     font-family:  'sacramento',cursive;
+     font-weight: bold;
+   }
+   .Facebook-link-blue3
+   {
+    font-size: x-large;
+     font-family:  'sacramento',cursive;
+     font-weight: bold;
+    color: rgb(240, 16, 248);
+   }
+   .Facebook-link-blue
+   {
+    
+    font-family:  'sacramento',cursive;
+    color: #6263b8;
+    font-weight: bolder;
+    font-size: 36px;
+
+   }
+   section
+  {
+    font-size: 20px;
+    background-color: #1d6834;
+    color: aqua;
+  }
+  .size_in
+  { 
+    font-family:  'sacramento',cursive;
+    font-size: 60px;
+
+  }
+  .bottompuch{
+    font-family:  'sacramento',cursive;
+    font-size: 20px;
+    margin: 80px 0 30px 0;
+
+  }
+  
